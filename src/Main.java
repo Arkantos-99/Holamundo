@@ -13,6 +13,8 @@ public class Main {
             System.out.println("es el año 2024");
         } else if (num==2025){
             System.out.println("no es el año 2024");
+            System.out.println("no es el año 2024");
+
         }
 
     }
